@@ -19,7 +19,7 @@
             "decimals": 18,
             "name": "Wrapped Grove",
             "symbol": "WGRV",
-            "logoURI": ""
+            "logoURI": "https://raw.githubusercontent.com/vineswap/tokenlist/main/token/addresses/0xE85f139488c689038028a3EB8fC38dcC29D4C340/logo.png"
         },
         {
             "chainId": 770077,
