@@ -1,0 +1,28 @@
+{
+    "name": "VineSwap Tokens",
+    "logoURI": "",
+    "keywords": [
+        "Grovechain",
+        "defi",
+        "GRV",
+        "vineswap"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 770077,
+            "address": "",
+            "decimals": 18,
+            "name": "",
+            "symbol": "",
+            "logoURI": ""
+        }
+
+
+    ],
+    "timestamp": "2023-01-05T12:00:00+00:00"
+}
