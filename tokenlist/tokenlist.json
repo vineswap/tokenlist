@@ -15,10 +15,10 @@
     "tokens": [
         {
             "chainId": 770077,
-            "address": "",
+            "address": "0xE85f139488c689038028a3EB8fC38dcC29D4C340",
             "decimals": 18,
-            "name": "",
-            "symbol": "",
+            "name": "Wrapped Grove",
+            "symbol": "WGRV",
             "logoURI": ""
         }
 
