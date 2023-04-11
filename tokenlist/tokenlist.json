@@ -20,9 +20,17 @@
             "name": "Wrapped Grove",
             "symbol": "WGRV",
             "logoURI": ""
+        },
+        {
+            "chainId": 770077,
+            "address": "0x48fE7101Fc6D5d1d3F703832dbb29de61881D5Df",
+            "decimals": 18,
+            "name": "US Grove Dollar",
+            "symbol": "USGD",
+            "logoURI": ""
         }
 
 
     ],
-    "timestamp": "2023-01-05T12:00:00+00:00"
+    "timestamp": "2023-04-05T12:00:00+00:00"
 }
