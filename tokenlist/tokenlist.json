@@ -15,6 +15,14 @@
     "tokens": [
         {
             "chainId": 770077,
+            "address": "0xa57234a3609516758C04B0De56Fe37ffc56Ad255",
+            "decimals": 18,
+            "name": "VineSwap Token",
+            "symbol": "VINE",
+            "logoURI": "https://raw.githubusercontent.com/vineswap/tokenlist/main/token/VINE.png"
+        },
+        {
+            "chainId": 770077,
             "address": "0xE85f139488c689038028a3EB8fC38dcC29D4C340",
             "decimals": 18,
             "name": "Wrapped Grove",
